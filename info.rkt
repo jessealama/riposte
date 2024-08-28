@@ -30,7 +30,7 @@
 
 (define pkg-desc "Scripting language for testing JSON-based HTTP APIs.")
 
-(define pkg-authors '("jesse@lisp.sh"))
+(define pkg-authors '("jesse@serverracket.com"))
 
 (define scribblings '(("scribblings/riposte.scrbl" ())))
 
